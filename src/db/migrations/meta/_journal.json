@@ -8,6 +8,13 @@
       "when": 1751954509885,
       "tag": "0000_rapid_doorman",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752006067660,
+      "tag": "0001_freezing_firedrake",
+      "breakpoints": true
     }
   ]
 }
