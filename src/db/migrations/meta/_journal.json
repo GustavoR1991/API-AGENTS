@@ -15,6 +15,13 @@
       "when": 1752006067660,
       "tag": "0001_freezing_firedrake",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752279730174,
+      "tag": "0002_absent_senator_kelly",
+      "breakpoints": true
     }
   ]
 }
