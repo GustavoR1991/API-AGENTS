@@ -61,6 +61,9 @@ export async function generateAnswer(question: string, transcriptions: string[])
       - Use apenas informações contidas no contexto enviado;
       - Se a resposta não for encontrada no contexto, apenas responda que não possui informações suficientes para responder;
       - Seja objetivo;
+      - Mantenha um tom educativo e profissional;
+      - Cite trechos relevantes do contexto se apropriado;
+      - Se for citar o contexto, utilize o termo "Conteúdo da aula";
 
   `.trim()
 
